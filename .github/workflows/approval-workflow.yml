@@ -14,3 +14,4 @@ on: pull_request_review
             APPROVALS: "1"
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             ADD_LABEL: "approved"    
+            
